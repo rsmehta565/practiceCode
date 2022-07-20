@@ -1,3 +1,4 @@
+#Test
 #Find smallest element in a list.
 def smlstVal(lst):
     myVal = lst[0]
